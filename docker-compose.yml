@@ -1,0 +1,6 @@
+version: "3"
+services:
+  texlive-theatre:
+    build: texlive-theatre/
+  texlive-awesomebox:
+    build: texlive-awesomebox/
